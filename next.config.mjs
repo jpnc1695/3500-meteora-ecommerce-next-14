@@ -5,7 +5,7 @@ const nextConfig = {
   images: {
     loader: "custom",
     loaderFile: "./src/app/imagem.js"
-  },
+  }
 };
 
 export default nextConfig;
